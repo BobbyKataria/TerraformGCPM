@@ -1,0 +1,13 @@
+#!/bin/bash
+echo this is working
+
+sudo apt install -y git
+
+cd ~
+
+git clone https://github.com/BobbyKataria/poolappScript.git
+
+cd ~/poolappScript
+
+
+

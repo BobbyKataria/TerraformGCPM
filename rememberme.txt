@@ -1,0 +1,2 @@
+terraform validate -var-file=variables/jenkins.tfvars
+
